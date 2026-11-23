@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Available_Stock,Minimum_Stock,Maximum_Stock,Storage_Capacity,Reorder_Level
+PROD_001,Wireless Noise-Cancelling Headphones,305,67,585,269.1,171
+PROD_002,4K Smart LED TV 43-Inch,136,18,156,448.5,45
+PROD_003,Mechanical Gaming Keyboard,439,57,494,170.4,144
+PROD_004,Ergonomic Wireless Mouse,518,78,676,155.5,197
+PROD_005,Smartwatch Series 5,156,46,403,92.7,117
+PROD_006,Portable Bluetooth Speaker,406,60,520,239.2,152
+PROD_007,1080p Pro Streaming Webcam,343,43,377,86.7,110
+PROD_008,USB-C Fast Charger 65W,751,90,780,89.7,228
+PROD_009,External Portable SSD 1TB,317,52,455,104.6,133
+PROD_010,Smart Home Security Camera,116,40,351,121.1,102
+PROD_011,Stainless Steel Cookware Set,187,24,208,430.6,60
+PROD_012,Digital Air Fryer 5.5L,419,51,442,559.1,129
+PROD_013,Robotic Vacuum Cleaner,114,28,247,426.1,72
+PROD_014,Espresso Coffee Machine,173,31,273,408.1,79
+PROD_015,Memory Foam Pillow Set,239,63,546,565.1,159
+PROD_016,Electric Glass Kettle 1.7L,312,72,624,358.8,182
+PROD_017,Non-Stick Granitestone Pan,200,58,507,349.8,148
+PROD_018,Ceramic Dinnerware 16-Piece,233,34,299,481.4,87
+PROD_019,Compact Microwave Oven 20L,93,25,221,508.3,64
+PROD_020,High-Speed Blender 1000W,233,46,403,370.8,117
+PROD_021,Men's Athletic Running Shoes,396,54,468,376.7,136
+PROD_022,Women's High-Waist Yoga Leggings,222,87,754,173.4,220
+PROD_023,Waterproof All-Weather Jacket,94,33,286,263.1,83
+PROD_024,Classic Combed Cotton T-Shirt,297,112,975,224.2,285
+PROD_025,Slim-Fit Stretch Denim Jeans,299,69,598,343.8,174
+PROD_026,Thermal Polar Fleece Hoodie,171,58,507,349.8,148
+PROD_027,Breathable Casual Sneakers,396,61,533,367.8,155
+PROD_028,Genuine Leather Dress Belt,307,48,416,95.7,121
+PROD_029,Heavy-Duty Travel Backpack,321,49,429,444.0,125
+PROD_030,Polarized UV Sunglasses,247,67,585,67.3,171
+PROD_031,Sonic Electric Toothbrush,258,66,572,197.3,167
+PROD_032,Deep Tissue Percussion Massager,124,42,364,293.0,106
+PROD_033,Mineral Sunscreen Lotion SPF 50,801,93,806,92.7,235
+PROD_034,Hydrating Facial Cleanser 250ml,649,87,754,173.4,220
+PROD_035,Ultrasonic Essential Oil Diffuser,250,54,468,215.3,136
+PROD_036,Pure Vitamin C Serum 30ml,350,73,637,73.3,186
+PROD_037,Ionic Ceramic Hair Dryer,244,46,403,278.1,117
+PROD_038,Comprehensive First Aid Kit,201,37,325,112.1,95
+PROD_039,Natural Whey Isolate Powder 1kg,307,57,494,454.5,144
+PROD_040,Collagen Peptides Powder 500g,263,49,429,246.7,125
+PROD_041,High-Density Eco Yoga Mat,600,70,611,351.3,178
+PROD_042,Adjustable Quick-Dial Dumbbell 24kg,72,21,182,397.7,53
+PROD_043,Resistance Exercise Band Set,493,79,689,158.5,201
+PROD_044,Insulated Stainless Water Flask 1L,612,91,793,273.6,231
+PROD_045,Windproof Camping Dome Tent 3P,64,19,169,311.0,49
+PROD_046,Ultra-Light Aluminum Trekking Poles,226,39,338,155.5,98
+PROD_047,Aerodynamic Road Cycling Helmet,251,31,273,188.4,79
+PROD_048,Inflatable Stand-Up Paddle Board,38,12,110,303.6,32
+PROD_049,High-Speed Weighted Jump Rope,265,69,598,68.8,174
+PROD_050,Hydration Trail Running Vest,224,43,377,173.4,110

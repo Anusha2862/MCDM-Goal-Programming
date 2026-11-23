@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Customer_Segment,Preferred_Category,Satisfaction_Score,Monthly_Spending
+CUST_001,59,Male,Premium / VIP,Home & Kitchen,3.8,1349.65
+CUST_002,62,Female,Mid-Tier Regular,Sports & Outdoors,4.1,210.43
+CUST_003,32,Male,Mid-Tier Regular,Sports & Outdoors,3.8,427.46
+CUST_004,53,Male,Mid-Tier Regular,Apparel & Footwear,4.7,202.27
+CUST_005,29,Female,Mid-Tier Regular,Home & Kitchen,3.8,467.22
+CUST_006,25,Male,Budget Conscious,Apparel & Footwear,4.4,215.28
+CUST_007,65,Male,Budget Conscious,Health & Beauty,3.6,122.77
+CUST_008,59,Female,Young Professional,Sports & Outdoors,3.8,384.78
+CUST_009,61,Male,Budget Conscious,Electronics,4.8,225.97
+CUST_010,43,Male,Mid-Tier Regular,Apparel & Footwear,3.7,324.34
+CUST_011,61,Male,Young Professional,Electronics,4.4,435.57
+CUST_012,65,Male,Mid-Tier Regular,Apparel & Footwear,5.0,424.0
+CUST_013,54,Male,Mid-Tier Regular,Electronics,3.8,211.24
+CUST_014,39,Male,Budget Conscious,Sports & Outdoors,4.8,126.64
+CUST_015,60,Female,Young Professional,Health & Beauty,3.7,419.82
+CUST_016,54,Female,Premium / VIP,Health & Beauty,4.8,1029.43
+CUST_017,33,Non-Binary,Budget Conscious,Health & Beauty,3.6,78.48
+CUST_018,26,Male,Budget Conscious,Health & Beauty,4.4,139.26
+CUST_019,57,Non-Binary,Mid-Tier Regular,Sports & Outdoors,4.8,204.02
+CUST_020,65,Male,Young Professional,Apparel & Footwear,4.7,520.09
+CUST_021,37,Male,Mid-Tier Regular,Apparel & Footwear,5.0,466.69
+CUST_022,51,Female,Young Professional,Apparel & Footwear,4.8,603.83
+CUST_023,31,Male,Premium / VIP,Sports & Outdoors,4.9,1526.31
+CUST_024,19,Female,Mid-Tier Regular,Electronics,4.9,507.55
+CUST_025,38,Male,Budget Conscious,Sports & Outdoors,4.9,85.42
+CUST_026,50,Female,Young Professional,Sports & Outdoors,4.6,414.2
+CUST_027,49,Female,Budget Conscious,Sports & Outdoors,4.8,146.16
+CUST_028,32,Female,Premium / VIP,Home & Kitchen,4.6,1029.04
+CUST_029,61,Female,Mid-Tier Regular,Sports & Outdoors,4.2,286.77
+CUST_030,23,Male,Mid-Tier Regular,Home & Kitchen,4.4,202.52
+CUST_031,64,Female,Budget Conscious,Electronics,4.8,82.75
+CUST_032,34,Male,Mid-Tier Regular,Sports & Outdoors,3.7,527.43
+CUST_033,55,Female,Budget Conscious,Health & Beauty,4.7,104.27
+CUST_034,25,Female,Mid-Tier Regular,Health & Beauty,4.2,455.18
+CUST_035,62,Female,Mid-Tier Regular,Electronics,4.1,318.76
+CUST_036,25,Male,Budget Conscious,Health & Beauty,3.7,103.03
+CUST_037,48,Male,Young Professional,Health & Beauty,4.7,777.98
+CUST_038,25,Male,Young Professional,Electronics,5.0,813.18
+CUST_039,34,Male,Mid-Tier Regular,Home & Kitchen,4.8,515.86
+CUST_040,29,Male,Young Professional,Apparel & Footwear,4.9,742.56
+CUST_041,37,Male,Young Professional,Sports & Outdoors,4.5,593.34
+CUST_042,31,Male,Young Professional,Sports & Outdoors,4.6,380.48
+CUST_043,39,Male,Mid-Tier Regular,Sports & Outdoors,4.9,385.89
+CUST_044,22,Non-Binary,Budget Conscious,Home & Kitchen,3.6,82.23
+CUST_045,34,Male,Young Professional,Sports & Outdoors,3.9,647.26
+CUST_046,58,Male,Mid-Tier Regular,Sports & Outdoors,4.3,527.15
+CUST_047,32,Female,Mid-Tier Regular,Apparel & Footwear,4.1,435.09
+CUST_048,38,Male,Young Professional,Electronics,3.5,660.58
+CUST_049,55,Non-Binary,Budget Conscious,Home & Kitchen,4.3,93.84
+CUST_050,41,Female,Young Professional,Apparel & Footwear,3.9,569.09
+CUST_051,53,Female,Mid-Tier Regular,Sports & Outdoors,3.5,485.99
+CUST_052,38,Female,Budget Conscious,Home & Kitchen,3.9,230.15
+CUST_053,54,Male,Budget Conscious,Home & Kitchen,4.6,106.65
+CUST_054,59,Female,Mid-Tier Regular,Apparel & Footwear,4.9,496.14
+CUST_055,24,Female,Premium / VIP,Electronics,3.5,1382.56
+CUST_056,59,Non-Binary,Budget Conscious,Health & Beauty,4.3,146.98
+CUST_057,19,Male,Young Professional,Home & Kitchen,4.3,767.3
+CUST_058,56,Female,Mid-Tier Regular,Electronics,4.0,514.64
+CUST_059,21,Female,Budget Conscious,Home & Kitchen,4.5,133.66
+CUST_060,54,Female,Mid-Tier Regular,Sports & Outdoors,4.6,524.02
+CUST_061,34,Female,Young Professional,Home & Kitchen,4.8,362.39
+CUST_062,40,Female,Mid-Tier Regular,Home & Kitchen,3.9,475.58
+CUST_063,25,Male,Budget Conscious,Health & Beauty,3.8,216.99
+CUST_064,48,Male,Premium / VIP,Home & Kitchen,3.8,1277.03
+CUST_065,44,Male,Young Professional,Apparel & Footwear,4.0,604.7
+CUST_066,62,Non-Binary,Mid-Tier Regular,Electronics,3.7,539.64
+CUST_067,30,Female,Young Professional,Electronics,3.7,567.28
+CUST_068,65,Female,Mid-Tier Regular,Sports & Outdoors,3.7,514.83
+CUST_069,31,Male,Premium / VIP,Electronics,4.3,1416.19
+CUST_070,62,Female,Premium / VIP,Home & Kitchen,4.0,716.48
+CUST_071,61,Female,Mid-Tier Regular,Electronics,4.6,305.11
+CUST_072,38,Female,Mid-Tier Regular,Apparel & Footwear,4.3,267.14
+CUST_073,61,Female,Mid-Tier Regular,Home & Kitchen,4.4,305.33
+CUST_074,54,Female,Mid-Tier Regular,Home & Kitchen,4.1,402.99
+CUST_075,60,Male,Mid-Tier Regular,Home & Kitchen,4.3,477.81
+CUST_076,29,Female,Budget Conscious,Sports & Outdoors,4.0,217.32
+CUST_077,34,Female,Budget Conscious,Home & Kitchen,3.7,78.32
+CUST_078,49,Female,Premium / VIP,Health & Beauty,4.1,1248.28
+CUST_079,31,Female,Mid-Tier Regular,Health & Beauty,3.9,429.62
+CUST_080,19,Female,Young Professional,Electronics,4.7,459.42
+CUST_081,63,Female,Budget Conscious,Home & Kitchen,4.9,91.84
+CUST_082,27,Female,Mid-Tier Regular,Sports & Outdoors,4.4,532.51
+CUST_083,47,Female,Premium / VIP,Sports & Outdoors,4.1,1511.51
+CUST_084,47,Female,Premium / VIP,Health & Beauty,4.2,1364.19
+CUST_085,59,Male,Premium / VIP,Health & Beauty,4.4,910.87
+CUST_086,23,Female,Budget Conscious,Apparel & Footwear,4.0,167.23
+CUST_087,27,Male,Mid-Tier Regular,Home & Kitchen,4.6,222.48
+CUST_088,45,Male,Mid-Tier Regular,Electronics,3.8,347.05
+CUST_089,56,Female,Budget Conscious,Sports & Outdoors,4.1,71.06
+CUST_090,41,Male,Mid-Tier Regular,Health & Beauty,4.3,457.12
+CUST_091,57,Female,Mid-Tier Regular,Apparel & Footwear,4.2,210.16
+CUST_092,40,Female,Premium / VIP,Home & Kitchen,4.8,1523.56
+CUST_093,58,Female,Young Professional,Sports & Outdoors,4.3,363.55
+CUST_094,60,Male,Young Professional,Home & Kitchen,3.6,539.55
+CUST_095,32,Male,Mid-Tier Regular,Health & Beauty,3.9,532.92
+CUST_096,45,Male,Budget Conscious,Electronics,4.6,79.38
+CUST_097,41,Male,Budget Conscious,Electronics,4.6,240.93
+CUST_098,31,Female,Mid-Tier Regular,Home & Kitchen,3.7,434.31
+CUST_099,55,Female,Mid-Tier Regular,Apparel & Footwear,4.7,258.73
+CUST_100,57,Non-Binary,Premium / VIP,Home & Kitchen,4.9,752.69

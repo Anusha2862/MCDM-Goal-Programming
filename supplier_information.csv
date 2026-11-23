@@ -1,0 +1,21 @@
+Supplier_ID,Supplier_Name,Product_ID,Purchase_Price,Delivery_Time,Supplier_Rating,Reliability_Score
+SUP_001,Nexus Electronics Supply Co.,PROD_001,65.66,4,4.9,86.0
+SUP_002,Apex Global Tech Logistics,PROD_003,44.7,12,4.7,89.3
+SUP_003,OmniSource Component Hub,PROD_006,29.23,17,4.0,87.8
+SUP_004,Premier Kitchenware Imports,PROD_008,13.97,12,4.7,88.4
+SUP_005,Vanguard Home Essentials,PROD_011,84.02,18,4.9,95.9
+SUP_006,Apex Lifestyle Innovations,PROD_013,140.93,10,4.1,98.1
+SUP_007,Summit Apparel Distributors,PROD_016,17.48,14,4.6,94.7
+SUP_008,Metro Textile Mills Ltd.,PROD_018,40.76,13,4.0,94.2
+SUP_009,Zenith Footwear & Gear,PROD_021,48.6,12,4.1,92.4
+SUP_010,Horizon Sportswear Source,PROD_023,54.0,18,4.9,98.6
+SUP_011,BioCare Health Supplies,PROD_026,21.5,11,4.1,97.9
+SUP_012,PureLife Botanicals Ltd.,PROD_028,14.21,16,4.6,90.2
+SUP_013,DermaSource Labs International,PROD_031,26.49,5,4.5,92.1
+SUP_014,Elite Fitness Equipment Co.,PROD_033,9.02,15,4.1,92.9
+SUP_015,Peak Trail Gear Suppliers,PROD_036,10.91,7,4.2,88.7
+SUP_016,ProActive Athletics Hub,PROD_038,11.83,15,4.6,95.3
+SUP_017,AeroTech Precision Goods,PROD_041,13.8,11,4.2,98.2
+SUP_018,Nordic Living Warehouses,PROD_043,8.79,6,4.1,87.3
+SUP_019,Titan Industrial Distributors,PROD_046,20.86,16,4.1,90.0
+SUP_020,Global Prime Merchandising,PROD_048,176.49,17,4.3,88.7

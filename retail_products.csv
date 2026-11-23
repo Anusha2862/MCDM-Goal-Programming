@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Selling_Price,Purchase_Cost,Profit,Demand,Quality_Score,Customer_Attractiveness,Storage_Required
+PROD_001,Wireless Noise-Cancelling Headphones,Electronics,130.0,65.0,65.0,450,4.8,92,0.4
+PROD_002,4K Smart LED TV 43-Inch,Electronics,320.0,180.0,140.0,120,4.6,88,2.5
+PROD_003,Mechanical Gaming Keyboard,Electronics,95.0,45.0,50.0,380,4.7,85,0.3
+PROD_004,Ergonomic Wireless Mouse,Electronics,42.0,18.0,24.0,520,4.5,80,0.2
+PROD_005,Smartwatch Series 5,Electronics,160.0,85.0,75.0,310,4.6,90,0.2
+PROD_006,Portable Bluetooth Speaker,Electronics,68.0,30.0,38.0,400,4.4,82,0.4
+PROD_007,1080p Pro Streaming Webcam,Electronics,75.0,35.0,40.0,290,4.3,76,0.2
+PROD_008,USB-C Fast Charger 65W,Electronics,32.0,14.0,18.0,600,4.7,84,0.1
+PROD_009,External Portable SSD 1TB,Electronics,115.0,60.0,55.0,350,4.8,89,0.2
+PROD_010,Smart Home Security Camera,Electronics,85.0,40.0,45.0,270,4.5,83,0.3
+PROD_011,Stainless Steel Cookware Set,Home & Kitchen,165.0,85.0,80.0,160,4.6,86,1.8
+PROD_012,Digital Air Fryer 5.5L,Home & Kitchen,105.0,52.0,53.0,340,4.7,91,1.1
+PROD_013,Robotic Vacuum Cleaner,Home & Kitchen,270.0,140.0,130.0,190,4.5,89,1.5
+PROD_014,Espresso Coffee Machine,Home & Kitchen,230.0,115.0,115.0,210,4.8,93,1.3
+PROD_015,Memory Foam Pillow Set,Home & Kitchen,55.0,24.0,31.0,420,4.4,78,0.9
+PROD_016,Electric Glass Kettle 1.7L,Home & Kitchen,38.0,18.0,20.0,480,4.3,75,0.5
+PROD_017,Non-Stick Granitestone Pan,Home & Kitchen,48.0,22.0,26.0,390,4.5,81,0.6
+PROD_018,Ceramic Dinnerware 16-Piece,Home & Kitchen,90.0,42.0,48.0,230,4.2,77,1.4
+PROD_019,Compact Microwave Oven 20L,Home & Kitchen,125.0,65.0,60.0,170,4.4,80,2.0
+PROD_020,High-Speed Blender 1000W,Home & Kitchen,82.0,38.0,44.0,310,4.6,85,0.8
+PROD_021,Men's Athletic Running Shoes,Apparel & Footwear,110.0,48.0,62.0,360,4.7,90,0.7
+PROD_022,Women's High-Waist Yoga Leggings,Apparel & Footwear,42.0,16.0,26.0,580,4.8,92,0.2
+PROD_023,Waterproof All-Weather Jacket,Apparel & Footwear,120.0,55.0,65.0,220,4.5,84,0.8
+PROD_024,Classic Combed Cotton T-Shirt,Apparel & Footwear,22.0,8.0,14.0,750,4.4,79,0.2
+PROD_025,Slim-Fit Stretch Denim Jeans,Apparel & Footwear,65.0,26.0,39.0,460,4.5,83,0.5
+PROD_026,Thermal Polar Fleece Hoodie,Apparel & Footwear,52.0,22.0,30.0,390,4.3,80,0.6
+PROD_027,Breathable Casual Sneakers,Apparel & Footwear,78.0,34.0,44.0,410,4.6,87,0.6
+PROD_028,Genuine Leather Dress Belt,Apparel & Footwear,35.0,14.0,21.0,320,4.2,74,0.2
+PROD_029,Heavy-Duty Travel Backpack,Apparel & Footwear,75.0,32.0,43.0,330,4.6,88,0.9
+PROD_030,Polarized UV Sunglasses,Apparel & Footwear,45.0,15.0,30.0,450,4.5,85,0.1
+PROD_031,Sonic Electric Toothbrush,Health & Beauty,62.0,26.0,36.0,440,4.7,89,0.3
+PROD_032,Deep Tissue Percussion Massager,Health & Beauty,95.0,42.0,53.0,280,4.6,87,0.7
+PROD_033,Mineral Sunscreen Lotion SPF 50,Health & Beauty,24.0,9.0,15.0,620,4.8,91,0.1
+PROD_034,Hydrating Facial Cleanser 250ml,Health & Beauty,19.5,7.5,12.0,580,4.5,83,0.2
+PROD_035,Ultrasonic Essential Oil Diffuser,Health & Beauty,36.0,16.0,20.0,360,4.3,79,0.4
+PROD_036,Pure Vitamin C Serum 30ml,Health & Beauty,28.0,11.0,17.0,490,4.7,88,0.1
+PROD_037,Ionic Ceramic Hair Dryer,Health & Beauty,65.0,28.0,37.0,310,4.4,82,0.6
+PROD_038,Comprehensive First Aid Kit,Health & Beauty,29.0,12.0,17.0,250,4.6,78,0.3
+PROD_039,Natural Whey Isolate Powder 1kg,Health & Beauty,52.0,24.0,28.0,380,4.6,86,0.8
+PROD_040,Collagen Peptides Powder 500g,Health & Beauty,40.0,18.0,22.0,330,4.5,84,0.5
+PROD_041,High-Density Eco Yoga Mat,Sports & Outdoors,35.0,14.0,21.0,470,4.6,88,0.5
+PROD_042,Adjustable Quick-Dial Dumbbell 24kg,Sports & Outdoors,195.0,95.0,100.0,140,4.8,93,1.9
+PROD_043,Resistance Exercise Band Set,Sports & Outdoors,25.0,9.0,16.0,530,4.5,82,0.2
+PROD_044,Insulated Stainless Water Flask 1L,Sports & Outdoors,28.0,11.0,17.0,610,4.7,89,0.3
+PROD_045,Windproof Camping Dome Tent 3P,Sports & Outdoors,145.0,68.0,77.0,130,4.5,85,1.6
+PROD_046,Ultra-Light Aluminum Trekking Poles,Sports & Outdoors,49.0,21.0,28.0,260,4.4,80,0.4
+PROD_047,Aerodynamic Road Cycling Helmet,Sports & Outdoors,74.0,32.0,42.0,210,4.6,86,0.6
+PROD_048,Inflatable Stand-Up Paddle Board,Sports & Outdoors,340.0,175.0,165.0,85,4.7,91,2.4
+PROD_049,High-Speed Weighted Jump Rope,Sports & Outdoors,18.0,7.0,11.0,460,4.3,76,0.1
+PROD_050,Hydration Trail Running Vest,Sports & Outdoors,58.0,25.0,33.0,290,4.5,83,0.4
